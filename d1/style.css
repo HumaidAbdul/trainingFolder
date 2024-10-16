@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    background-color: black;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+
+}
+
+button {
+    width: 100px;
+    height: 100px;
+    background-color: black;
+}
